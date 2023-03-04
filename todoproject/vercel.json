@@ -18,7 +18,9 @@
 
         {
 
-            "src":"build_files.sh"
+            "src":"build_files.sh",
+
+            "use":"@vercel/static-build"
 
         }
 
